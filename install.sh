@@ -1,6 +1,4 @@
-#!/bin/env sh
-
-
+#!/bin/sh
 
 ln -s -i $(pwd)/nvim/init.vim $HOME/.config/nvim/init.vim
 
